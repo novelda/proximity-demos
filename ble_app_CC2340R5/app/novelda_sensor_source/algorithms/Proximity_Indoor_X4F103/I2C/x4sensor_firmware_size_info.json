@@ -1,0 +1,9 @@
+{
+  "available_code_memory": 3760,
+  "available_xdata_memory": 336,
+  "firmware_size": 3619,
+  "unused_code_memory": 141,
+  "unused_xdata_memory": 104,
+  "available_stack_memory": 255,
+  "used_stack_memory": 68
+}
